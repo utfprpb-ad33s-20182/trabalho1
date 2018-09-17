@@ -1,4 +1,4 @@
-package sd29cp.trabalho1.interfaces;
+package ad33s.trabalho1.interfaces;
 
 public interface ISMTP {
     //enviar - invocado pela aplicação cliente
