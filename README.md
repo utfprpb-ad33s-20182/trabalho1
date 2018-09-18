@@ -13,20 +13,20 @@ Os passos para o envio de um email está apresentado na Figura abaixo e consiste
 **Observação:** Caso o domı́nio de destino da mensagem seja o mesmo de origem, os passos 3 e 4 não são necessários.
 
 
-![smtp](https://github.com/favarim/ad33s20182-trabalho1/blob/master/trabalho/figuras/smtp.jpg)
+![smtp](https://github.com/utfprpb-ad33s-20182/trabalho1/blob/master/ad-trabalho1/figuras/smtp.jpg)
 
 
 ### Recebimento de emails:
 Os passos para o recebimento de um email está apresentado na Figura abaixo e consistem em: (1) a aplicação do usuário busca no servidor DNS a localização (IP:Porta) do servidor POP do usuário, (2) solicita ao servidor POP a leitura das mensagens (emails) de sua caixa postal; (3) servidor POP busca na caixa postal do do usuário por novas mensagens, caso existam envia todas para o usuário. O usuário tem a opção de escolher de manter as mensagens no servidor após serem lidas.
 
-![pop](https://github.com/favarim/ad33s20182-trabalho1/blob/master/trabalho/figuras/pop.jpg)
+![pop](https://github.com/utfprpb-ad33s-20182/trabalho1/blob/master/ad-trabalho1/figuras/pop.jpg)
 
 
 ## Especificação do Trabalho
 A aplicação distribuı́da a ser desenvolvida deve ser composta por três módulos: Cliente, Servidor
 IMAP/POP e Servidor de DNS, conforme mostra a figura abaixo.
 
-![mensagens-protocolo](https://github.com/favarim/ad33s20182-trabalho1/blob/master/trabalho/figuras/java.jpg)
+![mensagens-protocolo](https://github.com/utfprpb-ad33s-20182/trabalho1/blob/master/ad-trabalho1/figuras/java.jpg)
 
 
 ### Cliente
