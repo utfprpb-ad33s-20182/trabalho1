@@ -85,11 +85,9 @@ ject);
   
 # Avaliação e Datas de Entrega
 * Entregar via Github Classroom, conforme cronograma de entregas abaixo:
-  - 17/09/2018 - Commit da versão 0.1
-  - 18/09/2018 - Commit da versão 0.2
-  - até 01/10/2018 às 13h50min - Commit da versão 1.0 (final) e apresentação em sala
+  - até 01/10/2018 às 20hh30min - Commit da versão 1.0 (final) e apresentação em sala
 * usar [tags](https://git-scm.com/book/pt-br/v1/Git-Essencial-Tagging) do git para marcar
-os commits que representarão cada entrega.
+os commits feitos.
 * o trabalho poderá ser feito individualmente ou em dupla;
 * dentro do projeto deve haver um arquivo leiame.txt contendo:
   - nome dos integrantes da equipe;
